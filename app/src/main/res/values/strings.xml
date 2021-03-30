@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Daftar Kartun</string>
+    <string name="kartun_name">Kartun Name</string>
+    <string name="detail">Detail</string>
+</resources>
